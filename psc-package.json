@@ -1,0 +1,10 @@
+{
+  "name": "row-contains-test",
+  "set": "local",
+  "source": "",
+  "depends": [
+    "console",
+    "prelude",
+    "typelevel-prelude"
+  ]
+}
